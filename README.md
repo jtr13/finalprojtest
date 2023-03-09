@@ -1,30 +1,9 @@
-This is a template for the IMLV final project. It is based on the template created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. 
-
-
-## ABSOLUTE ESSENTIALS
-
-*If you have any difficulties or have feedback of any kind, please file an issue or communicate through [Discussions](https://github.com/jtr13/IMLVtemplate/discussions).*
-
-### Copy this template
-
-- [ ] 1. Click the green "Use this template" button above.  DO NOT FORK THE REPO. Choose a descriptive name for your repo, such as "federalbudget" or "AIDSdeaths".  (If you change your mind before you do any work, delete your new repo and start over.)
-
-- [ ] 2. In the Description field, write: "Bookdown source files for IMLV final project".
-
-### Set up GitHub Pages	
-- [ ] 1. On the home page of your repo, click Settings. Click the "Pages" section on the left. In the **Build and Deployment** section, set **Source** to "Deploy from a branch" (Classic Pages experience) and **Branch** to **main** with **/docs** folder. Click Save. Above the **Build and Deployment** section, a box will appear with your book's URL. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, make a change and commit it to trigger a GitHub Pages build.)	
-
-- [ ] 2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
-
-### Clone the repo
-
-- [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
 
 ### Edit some key files
 
 - [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title.
 
-- [ ] 2. In `index.Rmd`, change YOUR NAMES HERE to your names.
+- [ ] 2. In `index.Rmd`, change YOUR NAME HERE to your names.
 
 - [ ] 3. In `_bookdown.yml`, change YOUR GITHUB USERNAME to your GitHub username in the two places it appears.
 
